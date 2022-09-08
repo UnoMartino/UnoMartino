@@ -5,3 +5,4 @@
 🌱 Coding as a hobby  
 🖋️ Love Free Software  
 📫 You can reach me via email (with GPG):  
+[marcin@madanowicz.pl](mailto:marcin@madanowicz.pl)
