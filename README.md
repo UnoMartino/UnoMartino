@@ -6,7 +6,7 @@
 🖋️ Love Free Software  
 💡 Main interests: Linux and networking  
 🎙️ Amateur pro-audio live sound production  
-📖 The Witcher book series
+📖 The Witcher book series ❤️
 
 📫 You can reach me via email (with GPG):  
 [marcin@madanowicz.pl](mailto:marcin@madanowicz.pl)  
