@@ -5,7 +5,7 @@
 🌱 Coding as a hobby  
 🖋️ Love Free Software  
 💡 Main interests: Linux and networking  
-🎙️ Amateur pro-audio live sound production  
+🎙️ Amateur live sound engineer  
 📖 The Witcher book series ❤️
 
 📫 You can reach me via email (with GPG):  
