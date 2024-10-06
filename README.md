@@ -1,12 +1,11 @@
 👋 Hi, I’m @UnoMartino  
 🐵 INFJ-T 👉👈  
-🧑‍💻 I use Arch btw  
 💾 #100daysofhomelab  
-🌱 Coding as a hobby  
+🌱 Coding and homelabbing as a hobby  
 🖋️ Love Free Software  
 💡 Main interests: Linux and networking  
 🎙️ Amateur live sound engineer  
-📖 The Witcher book series ❤️
+📖 The Witcher & HP book series ❤️
 
 📫 You can reach me via email (with GPG):  
 [marcin@madanowicz.pl](mailto:marcin@madanowicz.pl)  
